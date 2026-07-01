@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "coc-clangd": ">=0.32.0",
+    "coc-json": ">=1.9.3",
+    "coc-sh": ">=1.2.4",
+    "coc-pyright": ">=1.1.405"
+  }
+}
