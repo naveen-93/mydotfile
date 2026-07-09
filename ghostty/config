@@ -6,6 +6,8 @@ background = #031219
 
 font-family = "PlemolJP Console NF"
 
+shell-integration-features = ssh-env,ssh-terminfo
+
 cursor-style = block
 cursor-style-blink = true
 
