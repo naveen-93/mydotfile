@@ -1,0 +1,11 @@
+# credentials / secrets
+github-copilot/auth.db
+github-copilot/auth.db-shm
+github-copilot/auth.db-wal
+
+# local backups and scratch
+nvim.bak/
+opencode/
+
+# macOS cruft
+.DS_Store
