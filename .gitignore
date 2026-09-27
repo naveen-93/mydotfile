@@ -3,6 +3,10 @@ github-copilot/auth.db
 github-copilot/auth.db-shm
 github-copilot/auth.db-wal
 
+# nvim is its own repo (github.com/naveen-93/nvim), cloned here directly.
+# Ignored so a stray `git add .` cannot re-add it as a submodule gitlink.
+nvim/
+
 # local backups and scratch
 nvim.bak/
 opencode/
